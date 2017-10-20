@@ -375,6 +375,7 @@ def main():
         if len(reception) == 6:
             Win = True
     print("winner!")
+    a = input("press any key to exit: ")
 
 
 
